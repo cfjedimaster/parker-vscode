@@ -1,6 +1,6 @@
 {
     "name": "parker-code-extension",
-    "displayName": "Run Parker on a CSS file",
+    "displayName": "Parker CSS Analysis",
     "description": "Uses the Parker CSS analysis tool within Code.",
     "version": "0.0.1",
     "publisher": "raymondcamden",
