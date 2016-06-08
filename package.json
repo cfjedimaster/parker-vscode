@@ -2,7 +2,7 @@
     "name": "parker-code-extension",
     "displayName": "Parker CSS Analysis",
     "description": "Uses the Parker CSS analysis tool within Code.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "raymondcamden",
 	"bugs": {
 		"url": "https://github.com/cfjedimaster/parker-vscode/issues",
